@@ -4,9 +4,16 @@ def get_data(path):
 
 	return data
 
+"""
+Part 1
+"""
 def part_one():
 	data = get_data("input.txt")
 
+
+"""
+Part 2
+"""
 def part_two():
 	data = get_data("input.txt")
 
